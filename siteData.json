@@ -6,12 +6,12 @@
       "title": "About Us",
       "headings": {
         "about-us": "About Us",
-        "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "nustates": "NUStates",
+        "trisha-patodia": "Trisha Patodia",
+        "low-wei-bin": "Low Wei Bin",
+        "dylan-wong": "Dylan Wong",
+        "tan-xin-quan": "Tan Xin Quan",
+        "isaac-teo": "Isaac Teo"
       },
       "headingKeywords": {}
     },
@@ -136,7 +136,39 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
+      "src": "team/dylan.md",
+      "title": "Dylan's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/isaac.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/orangecatloves.md",
+      "title": "Low Wei Bin's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/triishaa.md",
+      "title": "John Doe's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/xinquan.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
